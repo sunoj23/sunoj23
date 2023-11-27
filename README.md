@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunoj23&label=Profile%20views&color=0e75b6&style=flat" alt="sunoj23" /> </p>
 
-- 🌱 I’m currently learning **Python,TensorFlow,Tableau**
+- 🌱 I’m currently learning **Python,Pandas,TensorFlow,Tableau**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning,Data Science,Data Analysis,DevOps**
 
 - 📫 How to reach me **sunojtomar10@gmail.com**
 
-- ⚡ Fun fact **I think i not funny**
+- ⚡ Fun fact **Chess is the greatest game ever to exist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
