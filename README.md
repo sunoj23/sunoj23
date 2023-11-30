@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning,Data Science,Data Analysis,DevOps**
 
-- 📫 How to reach me **sunojtomar10@gmail.com**
+- 📫 How to reach me **sunojtomar23@gmail.com**
 
 - ⚡ Fun fact **Chess is the greatest game ever to exist**
 
